@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="list_is_empty">List is Empty</string>
+    <string name="news_are_loading_please_wait">News are loading please wait…</string>
+    <string name="server_problem">"Server problem…"</string>
+    <string name="try_again">"Try again"</string>
+    <string name="please_connect_the_network">"Please connect the network…"</string>
+    <string name="isfavorite">isFavorite</string>
+
+</resources>
